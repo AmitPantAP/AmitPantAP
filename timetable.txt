@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> Time Table </title>
+</head>
+<body>
+<table border = "4">
+	<th align= "center"> Day </th>
+</table>
+</body>
+</html>
